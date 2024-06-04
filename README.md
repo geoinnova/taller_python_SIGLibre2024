@@ -26,7 +26,9 @@ Este taller está diseñado tanto para principiantes como para quienes deseen pr
 - *Seguramente también necesitaría conocer el uso de las principales librerías estándar de Python ¿Cuáles me recomendarías?*
 
 
-## Google Collab
+## Requisitos 
+
+**Google Collab**
 
 https://colab.research.google.com/
 

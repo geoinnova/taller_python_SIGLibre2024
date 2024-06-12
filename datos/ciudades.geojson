@@ -1,0 +1,115 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barcelona",
+        "population": 1620343
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.173403, 41.385064]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "L'Hospitalet de Llobregat",
+        "population": 269009
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.116245, 41.359920]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Badalona",
+        "population": 223166
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.245032, 41.446988]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terrassa",
+        "population": 223011
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.008873, 41.561100]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sabadell",
+        "population": 215760
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.109375, 41.543291]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tarragona",
+        "population": 135239
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.244490, 41.118883]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mataró",
+        "population": 129166
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.444920, 41.538112]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Coloma de Gramenet",
+        "population": 119717
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.210322, 41.451524]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Girona",
+        "population": 101852
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.821426, 41.979400]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reus",
+        "population": 104373
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.114405, 41.154390]
+      }
+    }
+  ]
+}
